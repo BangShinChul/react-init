@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import Button from '../../components/button/Button';
+import { Button } from 'antd';
 // @flow
 
 class Main extends PureComponent {
@@ -7,7 +7,7 @@ class Main extends PureComponent {
         return (
             <div>
                 <h1>hello</h1>
-                <Button />
+                <Button type="primary">Button</Button>
             </div>
         )
     }

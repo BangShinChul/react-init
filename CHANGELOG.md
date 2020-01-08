@@ -6,3 +6,4 @@
 - node-sass 설치
 - flow-bin 설치
 - react-router-dom 설치
+- antd 설치

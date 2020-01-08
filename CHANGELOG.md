@@ -7,3 +7,9 @@
 - flow-bin 설치
 - react-router-dom 설치
 - antd 설치
+- npm run eject 실행 (webpack과 babel 직접 관리)
+- decorator 세팅
+   - (transform-decorators-legacy 설치)
+   - @babel/plugin-proposal-class-properties @babel/plugin-proposal-decorators 설치
+   - package.json에 babel의 plugins 수정
+- mobx, mobx-react 설치

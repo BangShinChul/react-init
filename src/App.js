@@ -49,7 +49,7 @@ function App() {
 
         <Switch>
           <Route exact path="/">
-            <Main />
+            <Main hello="hello world" />
           </Route>
           <Route path="/test">
             <Test />

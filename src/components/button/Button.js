@@ -3,7 +3,9 @@ import '../../styles/Main.scss';
 
 class Button extends Component {
     render() {
-        return <div className="Button" />;
+        return (
+            <div class="Button">button</div>
+        )
     }
 }
 

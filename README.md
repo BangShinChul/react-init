@@ -1,3 +1,9 @@
+### React.js 기본적인 초기 세팅 환경 구성
+
+[Change Log](./CHANGELOG.md)
+
+* * *
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

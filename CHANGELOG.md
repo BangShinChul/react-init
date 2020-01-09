@@ -1,3 +1,12 @@
+### 20.01.09
+- axios 설치
+- /src/pages/terms 작업
+   - store 생성 및 axios로 데이터 가져오는 action 생성
+   - TermsChild에서 props로 store를 전달받아 사용하게끔 구성
+   - 이슈 사항) axios 테스트 중 CORS 에러 발생
+
+<br>
+
 ### 20.01.08
 - prettier 설치
 - storybook 설치

@@ -11,9 +11,6 @@ class Main extends React.PureComponent {
         }
     }
 
-    // componentDidMount() {
-    // }
-
     render() {
         return (
             <div>
